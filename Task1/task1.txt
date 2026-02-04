@@ -3,14 +3,9 @@ Install & Verify: Install Terraform and run terraform -version.
 Installation of Terraform :- https://developer.hashicorp.com/terraform/install#windows
 
 ```
-C:\Users\Roshni>terraform --version
+C:\Users\xxx>terraform --version
 Terraform v1.14.3
 on windows_amd64
-
-Your version of Terraform is out of date! The latest version
-is 1.14.4. You can update by downloading from https://developer.hashicorp.com/terraform/install
-
-C:\Users\Roshni>
 ```
 
 
