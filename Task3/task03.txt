@@ -1,0 +1,1 @@
+Created a local file using local_file resource in Terraform!

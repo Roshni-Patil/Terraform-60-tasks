@@ -1,0 +1,11 @@
+
+# Terraform state and core files
+# ========================
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.* 
+
+.terraform.lock.hcl
+
+.terraform/
