@@ -1,0 +1,32 @@
+# ========================
+# Terraform core files
+# ========================
+.terraform/
+.terraform.lock.hcl
+
+# ========================
+# Terraform state files
+# ========================
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# ========================
+# Variable & secrets files
+# ========================
+terraform.tfvars
+*.tfvars
+
+# ========================
+# Logs & crash files
+# ========================
+crash.log
+
+# ========================
+# OS / Editor junk
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
